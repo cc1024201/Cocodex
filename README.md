@@ -1,2 +1,2 @@
 # Cocodex
-codex-with-me
+code with codex
